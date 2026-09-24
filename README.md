@@ -9,3 +9,6 @@ Simulação de vendas
 Controle por forma de pagamento                
 Fechamento de caixa  
 Projeto desenvolvido para praticar lógica de programação e Python.
+
+[Email: ](guilhermeguideoliveiracosta@gmail.com)
+[Linkedin: ](https://linkedin.com/in/guihholi)
