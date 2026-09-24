@@ -1,7 +1,7 @@
-# pedido_de_venda
-##🛒 Sistema de Vendas 
+# pedido_de_venda #
+🛒 Sistema de Vendas 
 Sistema simples de vendas e controle de estoque desenvolvido em Python. 
-###Funcionalidades 
+Funcionalidades 
 Cadastro de produtos  
 Consulta de estoque  
 Simulação de vendas  
