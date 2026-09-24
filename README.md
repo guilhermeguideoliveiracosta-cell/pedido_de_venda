@@ -1,4 +1,4 @@
-#🛒 Sistema de Vendas#
+# #🛒 Sistema de Vendas#
 
 Sistema simples de vendas e controle de estoque desenvolvido em Python. 
 Funcionalidades
