@@ -10,5 +10,5 @@ Controle por forma de pagamento
 Fechamento de caixa  
 Projeto desenvolvido para praticar lógica de programação e Python.
 
-[Email: ](guilhermeguideoliveiracosta@gmail.com) <br>
-[Linkedin: ](https://linkedin.com/in/guihholi)
+[guilhermeguideoliveiracosta@gmail.com](mailto:guilhermeguideoliveiracosta@gmail.com) <br>
+[Linkedin: Guilherme de Oliveira ](https://linkedin.com/in/guihholi)
