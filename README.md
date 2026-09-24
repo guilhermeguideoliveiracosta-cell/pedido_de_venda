@@ -5,6 +5,6 @@ Funcionalidades
 Cadastro de produtos  
 Consulta de estoque  
 Simulação de vendas  
-Controle por forma de pagamento 
+Controle por forma de pagamento
 Fechamento de caixa  
 Projeto desenvolvido para praticar lógica de programação e Python.
