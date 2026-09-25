@@ -32,7 +32,7 @@
 
 3. **Abra o terminal dentro da pasta do projeto.**
 
-4. **Execute o programa:**
+4. **Execute o programa:**<br>
 python_main.py
 
 ## 💻 Demonstração
