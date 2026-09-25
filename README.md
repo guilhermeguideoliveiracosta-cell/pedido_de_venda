@@ -28,7 +28,7 @@
 
 Clone o repositório:
 
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/guihholi/seu-repositorio.git
 
 
 Entre na pasta:
